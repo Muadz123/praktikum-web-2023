@@ -1,0 +1,25 @@
+.container {
+    width: 900px;
+    border: 1px solid black;
+    background-color:bisque;
+}
+
+.judul {
+    background-color:rgb(241, 187, 121);
+    text-align: center;
+}
+
+.rinci ol li a {
+    text-decoration: none;
+    color: blue;
+}
+
+.gambar {
+    display: flex;
+    padding-left: 130px;
+    margin-top: 10px;
+}
+
+.end ul li a {
+    text-decoration: none;
+}
